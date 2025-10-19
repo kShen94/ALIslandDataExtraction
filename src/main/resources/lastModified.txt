@@ -1,0 +1,10 @@
+1760908968462
+https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/refs/heads/main/EN/ShareCfg/island_production_slot.json,e5b2ebc7bd72235ad1baeac50b203e8455cc497f76043d532c2eb5867a2b999f
+https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/refs/heads/main/EN/ShareCfg/island_farm_seed.json,a97ea78be4fe4608a0d39230ea94a4c49042b9fbdf57e361cd5c8f02bfdffb53
+https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/refs/heads/main/EN/ShareCfg/island_level.json,cffa56f687fe2fdd9ecfcd6dcc9e370d10443ace75aeeeda15c02ffbdb045ca5
+https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/refs/heads/main/EN/ShareCfg/island_item_data_template.json,c0bc12764adb557651c15e61e9eaf543b38f9700a050bfcc27248f01ad2a53a1
+https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/refs/heads/main/EN/ShareCfg/island_chara_level.json,43cbfcf77d7940c8dfe84e95577bc688d3a8c4ad5675cd0840de61ddc6125b99
+https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/refs/heads/main/EN/ShareCfg/island_formula.json,e2d56021e60282ff629610be692b0e7bef0fdb6f086501bf4eb6ee1ac4d62df1
+https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/refs/heads/main/EN/ShareCfg/island_production_place.json,a922e40240a351bc8b52a01f123ac25d2db5dfba208dedc74e08277e98ee1c40
+https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/refs/heads/main/EN/ShareCfg/island_manage_restaurant.json,0cc528d336ed765546ce8e77b1f1ac3171a08382b4bf54eeb1fa4f54fce3cad4
+https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/refs/heads/main/EN/ShareCfg/island_shop_goods.json,a9c32a9421c19e382047874a0cb587e939e8d0560dd390c6a8d9bed0bfa9bbb1

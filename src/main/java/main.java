@@ -4,6 +4,8 @@ import java.util.Set;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
+
+import Utility.FileDownloader;
 public class main {
 	
 	static JSONObject formula = JsonData.formula;
@@ -186,13 +188,14 @@ public class main {
 	}
 	
 	public static void main(String[] args) {
+		FileDownloader.updateFiles(false);
 		//parseFood();
 		//getFoodDemand();
 		//getSeasonalStats();
-		//getProductCounts();
+		getProductCounts();
 		//getCraftRecipes();
 		//getLevels();
-		getTextbooks();
+		//getTextbooks();
 	}
 
 }
